@@ -1,0 +1,561 @@
+.copy-of-herrising-13 {
+  height: 89px;
+  width: 91px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.about-us4 {
+  width: 75px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.about-us4,
+.discover4,
+.get-involved5 {
+  position: relative;
+  cursor: pointer;
+}
+.discover4 {
+  flex: 1;
+}
+.get-involved5 {
+  width: 110px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.about-us-frame1,
+.f-r-a-m-e1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.f-r-a-m-e1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-11xl);
+}
+.about-us-frame1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mid) var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-us3 {
+  position: relative;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.f-r-a-m-e2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-8xs) 0 0;
+}
+.blog4 {
+  width: 75px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+.f-r-a-m-e3 {
+  width: 409px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.donate-now5 {
+  position: relative;
+  font-weight: 800;
+}
+.donate-now-wrapper {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-maroon);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-10xs) var(--padding-2xs) var(--padding-10xs)
+    var(--padding-lg);
+  white-space: nowrap;
+}
+.component-12,
+.our-programs-text,
+.programs-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-programs-text {
+  flex-direction: column;
+  padding: var(--padding-xl) var(--padding-12xs) 0 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-sen);
+}
+.component-12,
+.programs-frame {
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.component-12 {
+  flex: 1;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: var(--gap-6xl);
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+.programs-frame {
+  align-self: stretch;
+  padding: 0 var(--padding-lg);
+}
+.our-programs1 {
+  margin: 0;
+  width: 505px;
+  height: 27px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.at-her-rising1,
+.f-r-a-m-e4,
+.our-programs1 {
+  position: relative;
+  max-width: 100%;
+}
+.at-her-rising1 {
+  height: 199px;
+  width: 505px;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 505px;
+}
+.f-r-a-m-e4 {
+  height: 306px;
+  flex: 1;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 366px;
+}
+.at-her-rising-we-believe-that-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.at-her-rising-we-believe-that-parent,
+.our-programs-parent,
+.programs-text {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.our-programs-parent {
+  width: 1102px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-52xl);
+}
+.programs-text {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 12px var(--padding-11xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-sen);
+}
+.programs {
+  margin: 0;
+  align-self: stretch;
+  height: 40px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame2,
+.programs-frame1 {
+  display: flex;
+  max-width: 100%;
+}
+.programs-frame1 {
+  height: 27px;
+  width: 525px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame2 {
+  width: 599px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.education-program,
+.frame-icon1 {
+  align-self: stretch;
+  position: relative;
+}
+.frame-icon1 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.education-program {
+  margin: 0;
+  height: 42px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.education-text,
+.leadership-development-program {
+  height: 27px;
+  flex: 1;
+  min-width: 328px;
+  max-width: 100%;
+}
+.education-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.leadership-development-program {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.economic-empowerment-frame {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-46xl);
+  max-width: 100%;
+}
+.our-education-program,
+.our-leadership-development {
+  height: 107px;
+  width: 482px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.oureducationprogram {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-mini);
+}
+.f-r-a-m-e5,
+.health-wellness-frame,
+.leadership-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.health-wellness-frame {
+  width: 1075px;
+  align-items: flex-start;
+  gap: 28px;
+}
+.f-r-a-m-e5,
+.leadership-frame {
+  box-sizing: border-box;
+}
+.leadership-frame {
+  align-self: stretch;
+  align-items: flex-end;
+  padding: 0 0 0 var(--padding-9xs);
+  gap: var(--gap-5xl);
+  font-family: var(--font-inter);
+}
+.f-r-a-m-e5 {
+  width: 1189px;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) var(--padding-2xl) 0;
+  gap: var(--gap-28xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-sen);
+}
+.frame-icon2 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.economic-empowerment-program {
+  margin: 0;
+  align-self: stretch;
+  height: 27px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.our-economic-empowerment {
+  height: 107px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.educationprogramframe,
+.text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+}
+.educationprogramframe {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-29xl);
+  min-width: 328px;
+}
+.health-wellness,
+.our-health-and {
+  position: relative;
+  display: inline-block;
+}
+.health-wellness {
+  margin: 0;
+  align-self: stretch;
+  height: 27px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.our-health-and {
+  height: 107px;
+  flex: 1;
+  max-width: 100%;
+}
+.educationprogramframe1,
+.our-health-and-wellness-progra-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-health-and-wellness-progra-wrapper {
+  width: 490px;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+}
+.educationprogramframe1 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-31xl);
+  min-width: 328px;
+}
+.economicempowermenttext,
+.educationprogramframe-parent {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.educationprogramframe-parent {
+  width: 1091px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-42xl);
+}
+.economicempowermenttext {
+  width: 1181px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child5 {
+  align-self: stretch;
+  height: 118px;
+  position: relative;
+  background-color: var(--color-maroon);
+}
+.frame1,
+.our-programs {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame1 {
+  align-self: stretch;
+  background-color: var(--color-crimson);
+  padding: 68px 0 0;
+  gap: var(--gap-82xl);
+  max-width: 100%;
+}
+.our-programs {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  padding: var(--padding-smi) 0 0;
+  gap: var(--gap-42xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .f-r-a-m-e1 {
+    display: none;
+  }
+  .our-programs-parent {
+    gap: var(--gap-52xl);
+  }
+  .economic-empowerment-frame {
+    gap: var(--gap-46xl);
+  }
+  .educationprogramframe-parent {
+    gap: var(--gap-42xl);
+  }
+  .frame1 {
+    padding-top: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .our-programs1 {
+    font-size: var(--font-size-5xl);
+  }
+  .at-her-rising1 {
+    flex: 1;
+  }
+  .at-her-rising-we-believe-that-parent {
+    flex-wrap: wrap;
+  }
+  .education-program,
+  .leadership-development-program,
+  .programs {
+    font-size: var(--font-size-5xl);
+  }
+  .oureducationprogram {
+    flex-wrap: wrap;
+  }
+  .economic-empowerment-program,
+  .health-wellness {
+    font-size: var(--font-size-5xl);
+  }
+  .frame1 {
+    padding-top: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .at-her-rising1 {
+    min-width: 100%;
+  }
+  .at-her-rising-we-believe-that-parent {
+    gap: var(--gap-15xl);
+  }
+  .our-programs-parent {
+    gap: var(--gap-52xl);
+  }
+  .economic-empowerment-frame {
+    gap: var(--gap-46xl);
+  }
+  .f-r-a-m-e5 {
+    gap: var(--gap-28xl);
+  }
+  .educationprogramframe {
+    gap: var(--gap-29xl);
+  }
+  .educationprogramframe1 {
+    gap: var(--gap-31xl);
+  }
+  .educationprogramframe-parent {
+    gap: var(--gap-42xl);
+  }
+  .frame1 {
+    gap: var(--gap-82xl);
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .our-programs {
+    gap: var(--gap-42xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-programs1 {
+    font-size: var(--font-size-lg);
+  }
+  .f-r-a-m-e4 {
+    min-width: 100%;
+  }
+  .economic-empowerment-program,
+  .education-program,
+  .health-wellness,
+  .leadership-development-program,
+  .programs {
+    font-size: var(--font-size-lg);
+  }
+  .frame1 {
+    gap: var(--gap-82xl);
+  }
+  .our-programs {
+    gap: var(--gap-42xl);
+  }
+}

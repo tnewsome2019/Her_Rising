@@ -1,0 +1,962 @@
+.copy-of-herrising-11 {
+  height: 89px;
+  width: 91px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+}
+.about-us2 {
+  width: 75px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.about-us2,
+.discover2,
+.get-involved1 {
+  position: relative;
+  cursor: pointer;
+}
+.discover2 {
+  flex: 1;
+}
+.get-involved1 {
+  width: 110px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.about-us-discover-text,
+.blog-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-discover-text {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-11xl);
+}
+.blog-text {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mid) var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-us1 {
+  position: relative;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.donate-now-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-8xs) 0 0;
+}
+.blog1 {
+  width: 75px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+.donate-now-text1 {
+  width: 409px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.donate-now3 {
+  position: relative;
+  font-weight: 800;
+}
+.whatisleadership-text {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-maroon);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-10xs) var(--padding-2xs) var(--padding-10xs)
+    var(--padding-lg);
+  white-space: nowrap;
+}
+.introductiontothe-leaderself-a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-12xs) 0 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-sen);
+}
+.component-1,
+.contact-us-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.component-1 {
+  flex: 1;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: var(--gap-6xl);
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+.contact-us-frame {
+  align-self: stretch;
+  padding: 0 var(--padding-lg);
+}
+.read-more-text-child {
+  align-self: stretch;
+  height: 1216px;
+  position: relative;
+  background-color: var(--color-crimson);
+  display: none;
+}
+.blog2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 1;
+}
+.introduction-frame-child {
+  width: 540px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.about-us-discover-frame-child {
+  width: 540px;
+  height: 157px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+  max-width: 100%;
+}
+.introduction-to-the,
+.lorem-ipsum-dolor {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.introduction-to-the {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor {
+  width: 406px;
+  height: 73px;
+  font-size: var(--font-size-sm);
+  flex-shrink: 0;
+}
+.read-more {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.story-of-iron-burkina-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 4;
+}
+.background-frame:hover,
+.frame-about-discover-get-invol:hover,
+.frame-background:hover,
+.introduction-to-the-leaderself:hover,
+.read-more-container:hover,
+.read-more-frame:hover,
+.read-more-wrapper:hover,
+.story-of-iron-burkina-frame:hover {
+  background-color: var(--color-brown-100);
+}
+.about-us-discover-frame {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 19px var(--padding-6xs);
+  box-sizing: border-box;
+  gap: 1px;
+  max-width: 100%;
+  z-index: 2;
+}
+.introduction-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 540px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  background-image: url(./public/rectangle-4@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 437px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-inner {
+  width: 260px;
+  height: 171px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.the-story-of {
+  margin: 0;
+  width: 236px;
+  height: 22px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lorem-ipsum-dolor1 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.read-more1 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.read-more-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent,
+.rectangle-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent {
+  width: 200px;
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-xs);
+}
+.rectangle-group {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  padding: var(--padding-6xs) var(--padding-8xs) var(--padding-4xs);
+  gap: var(--gap-15xl);
+}
+.frame-wrapper {
+  position: absolute;
+  top: 469px;
+  left: 0;
+  width: 260px;
+  height: 218px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-12xs) 0;
+  box-sizing: border-box;
+  background-image: url(./public/frame-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.rectangle-div {
+  width: 260px;
+  height: 171px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.the-story-of1 {
+  margin: 0;
+  width: 236px;
+  height: 22px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lorem-ipsum-dolor2 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.read-more2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.read-more-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.lorem-ipsum-dolor-sit-amet-co-group,
+.rectangle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-group {
+  width: 200px;
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-xs);
+}
+.rectangle-container {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  padding: var(--padding-6xs) var(--padding-8xs) var(--padding-4xs);
+  gap: var(--gap-15xl);
+}
+.frame-container {
+  position: absolute;
+  top: 469px;
+  left: 280px;
+  width: 260px;
+  height: 218px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-12xs) 0;
+  box-sizing: border-box;
+  background-image: url(./public/frame-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.leadership-is-contextual-frame-child {
+  height: 218px;
+  width: 260px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.the-story-of-iron-burkina-text-child {
+  width: 260px;
+  height: 155px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.what-is-leadership {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 3;
+}
+.lorem-ipsum-dolor3 {
+  flex: 1;
+  position: relative;
+  z-index: 4;
+}
+.about-us-text1,
+.lorem-i-psum-dolor-sit-amet-co {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-text1 {
+  width: 206px;
+  flex-direction: row;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xs);
+}
+.lorem-i-psum-dolor-sit-amet-co {
+  align-self: stretch;
+  flex-direction: column;
+}
+.read-more3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.introduction-to-the-leaderself {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 3;
+}
+.get-involved-text,
+.the-story-of-iron-burkina-text1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.the-story-of-iron-burkina-text1 {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  flex-direction: column;
+  padding: var(--padding-lg) var(--padding-15xl) var(--padding-2xs)
+    var(--padding-4xs);
+  gap: var(--gap-6xs);
+  z-index: 2;
+}
+.leadership-is-contextual-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  background-image: url(./public/rectangle-5@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 169px;
+  min-height: 219px;
+  z-index: 1;
+}
+.frame-child1 {
+  width: 260px;
+  height: 171px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.the-story-of2 {
+  margin: 0;
+  width: 236px;
+  height: 22px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lorem-ipsum-dolor4 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.read-more4 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.frame-about-discover-get-invol {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-div,
+.lorem-ipsum-dolor-sit-amet-co-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-container {
+  width: 200px;
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-xs);
+}
+.frame-div {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  padding: var(--padding-6xs) var(--padding-8xs) var(--padding-4xs);
+  gap: var(--gap-15xl);
+}
+.read-more-text1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-12xs) 0;
+  box-sizing: border-box;
+  background-image: url(./public/frame-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 169px;
+  min-height: 218px;
+  z-index: 1;
+}
+.what-is-leadership-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.leadership-context-frame-child {
+  width: 540px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.text-story-iron-burkina-child {
+  width: 540px;
+  height: 157px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+  max-width: 100%;
+}
+.leadership-is-contextual {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 3;
+}
+.lorem-ipsum-dolor5 {
+  width: 406px;
+  height: 73px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.read-more5 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.frame-background {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 5;
+}
+.text-story-iron-burkina {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-2xs) var(--padding-6xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 2;
+}
+.leadership-context-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  background-image: url(./public/rectangle-6@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 203px;
+  max-width: 100%;
+  z-index: 1;
+}
+.leadership-introduction-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  max-width: 100%;
+}
+.frame-child2 {
+  width: 260px;
+  height: 171px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.the-story-of3 {
+  margin: 0;
+  width: 236px;
+  height: 22px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lorem-ipsum-dolor6 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.read-more6 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.background-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent1,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent1 {
+  width: 200px;
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-xs);
+}
+.rectangle-parent1 {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  padding: var(--padding-6xs) var(--padding-8xs) var(--padding-4xs);
+  gap: var(--gap-15xl);
+}
+.iron-burkina-frames {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-12xs) 0;
+  box-sizing: border-box;
+  background-image: url(./public/frame-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 169px;
+  min-height: 218px;
+  z-index: 1;
+}
+.frame-child3 {
+  width: 260px;
+  height: 171px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.the-story-of4 {
+  margin: 0;
+  width: 236px;
+  height: 22px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.lorem-ipsum-dolor7 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.read-more7 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-proxima-nova);
+  color: var(--color-white);
+  text-align: left;
+}
+.read-more-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-6xs) var(--padding-7xs)
+    var(--padding-2xs);
+  background-color: var(--color-brown-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent2,
+.rectangle-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-co-parent2 {
+  width: 200px;
+  gap: var(--gap-6xs);
+  font-size: var(--font-size-xs);
+}
+.rectangle-parent2 {
+  flex: 1;
+  background-color: var(--color-darkslategray-100);
+  padding: var(--padding-6xs) var(--padding-8xs) var(--padding-4xs);
+  gap: var(--gap-15xl);
+}
+.iron-burkina-frames1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-12xs) 0;
+  box-sizing: border-box;
+  background-image: url(./public/frame-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 169px;
+  min-height: 218px;
+  z-index: 1;
+}
+.iron-burkina-story,
+.the-story-of-iron-burkina-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iron-burkina-story {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-xl);
+}
+.the-story-of-iron-burkina-text {
+  position: absolute;
+  top: 0;
+  left: 560px;
+  width: 540px;
+  flex-direction: column;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+}
+.introduction-frame-parent {
+  align-self: stretch;
+  height: 687px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-proxima-nova);
+}
+.blog-parent {
+  width: 1140px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-57xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-sen);
+}
+.read-more-text-item {
+  align-self: stretch;
+  height: 118px;
+  position: relative;
+  background-color: var(--color-maroon);
+  z-index: 1;
+}
+.blog-home-page,
+.read-more-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.read-more-text {
+  align-self: stretch;
+  background-color: var(--color-crimson);
+  align-items: center;
+  padding: 72px 0 0;
+  gap: var(--gap-217xl);
+  max-width: 100%;
+}
+.blog-home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: flex-start;
+  padding: var(--padding-smi) 0 0;
+  gap: var(--gap-42xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .about-us-discover-text {
+    display: none;
+  }
+  .blog-parent {
+    gap: var(--gap-57xl);
+  }
+  .read-more-text {
+    padding-top: 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .blog2 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .leadership-is-contextual-frame,
+  .read-more-text1 {
+    min-height: auto;
+  }
+  .what-is-leadership-text {
+    flex-wrap: wrap;
+  }
+  .iron-burkina-frames,
+  .iron-burkina-frames1 {
+    min-height: auto;
+  }
+  .iron-burkina-story {
+    flex-wrap: wrap;
+  }
+  .introduction-frame-parent {
+    height: auto;
+    min-height: 687;
+  }
+  .blog-parent {
+    gap: var(--gap-57xl);
+  }
+  .read-more-text {
+    gap: var(--gap-217xl);
+    padding-top: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .blog-home-page {
+    gap: var(--gap-42xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .blog2 {
+    font-size: var(--font-size-lg);
+  }
+  .introduction-to-the,
+  .leadership-is-contextual,
+  .the-story-of,
+  .the-story-of1,
+  .the-story-of2,
+  .the-story-of3,
+  .the-story-of4,
+  .what-is-leadership {
+    font-size: var(--font-size-lgi);
+  }
+  .read-more-text {
+    gap: var(--gap-217xl);
+  }
+  .blog-home-page {
+    gap: var(--gap-42xl);
+  }
+}

@@ -1,0 +1,1028 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.copy-of-herrising-1 {
+  height: 89px;
+  width: 91px;
+  position: relative;
+  object-fit: cover;
+}
+.about-us {
+  width: 75px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.about-us,
+.discover,
+.get-involved {
+  position: relative;
+  cursor: pointer;
+}
+.discover {
+  flex: 1;
+}
+.get-involved {
+  width: 110px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.frame-vector,
+.promote-social-inclusion-empow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.promote-social-inclusion-empow {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-11xl);
+}
+.frame-vector {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mid) var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.contact-us {
+  position: relative;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.copy-of-her-rising-rectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-8xs) 0 0;
+}
+.blog {
+  width: 95px;
+  position: relative;
+  display: inline-block;
+  padding-right: var(--padding-xl);
+  cursor: pointer;
+}
+.f-r-a-m-e {
+  width: 410px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.donate-now {
+  position: relative;
+  font-weight: 800;
+}
+.group {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-maroon);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-10xs) var(--padding-sm) var(--padding-10xs)
+    var(--padding-base);
+  white-space: nowrap;
+}
+.contact-us-blog-frame,
+.frame-about-us-discover-get-in {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-11xs) 0 0;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-sen);
+}
+.contact-us-blog-frame {
+  position: absolute;
+  top: 13px;
+  left: 18px;
+  width: 1224px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-6xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+.bf-01-1-icon {
+  width: 745px;
+  position: relative;
+  max-height: 100%;
+  object-fit: contain;
+  display: none;
+  max-width: 100%;
+}
+.frame-vector-icon {
+  height: 30.2px;
+  width: 227.3px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.promote-social-inclusion-empow1 {
+  position: absolute;
+  top: 151px;
+  left: 490px;
+  width: 745px;
+  height: 525px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 176px var(--padding-mini);
+  box-sizing: border-box;
+  background-image: url(./public/bf01-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.discover-text-icon {
+  position: absolute;
+  top: 269px;
+  left: 228px;
+  width: 227.3px;
+  height: 30.2px;
+  object-fit: cover;
+}
+.promote-social-inclusion {
+  margin: 0;
+  position: absolute;
+  top: 254px;
+  left: 115px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  width: 340px;
+  height: 27px;
+  z-index: 1;
+}
+.finance-text-icon {
+  width: 227.3px;
+  height: 30.2px;
+  position: relative;
+  object-fit: cover;
+}
+.to-nurture-and {
+  height: 31px;
+  width: 416px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  padding-left: var(--padding-xl);
+  cursor: pointer;
+  z-index: 1;
+}
+.group-frame,
+.through-access-to-an-internal {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.through-access-to-an-internal {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-shrink: 0;
+}
+.group-frame {
+  width: 472px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.mdibook-education-outline,
+.mdibusiness-woman {
+  position: absolute;
+  top: 24px;
+  left: 109px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.mdibook-education-outline {
+  top: 0;
+}
+.rectangle-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-maroon);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.donate-now1 {
+  position: absolute;
+  top: calc(50% - 5px);
+  left: calc(50% - 37.5px);
+  font-weight: 800;
+  display: inline-block;
+  width: 75px;
+  height: 19px;
+  z-index: 1;
+}
+.mdibusinesswoman {
+  height: 28px;
+  width: 109px;
+  position: relative;
+}
+.contact-rectangle-icon:hover,
+.donate-frame:hover,
+.mdibusinesswoman:hover,
+.promote-inclusion:hover {
+  animation: 1s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.streamlinemoney-cash-bag-doll {
+  height: 14px;
+  width: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.discover-frame-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-forestgreen);
+  cursor: pointer;
+}
+.discover1,
+.line-icon {
+  position: relative;
+  z-index: 1;
+}
+.discover1 {
+  height: 19px;
+  flex: 1;
+  font-weight: 800;
+  display: inline-block;
+}
+.line-icon {
+  width: 15px;
+  height: 8px;
+  object-fit: contain;
+}
+.our-impact {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  margin-left: -4px;
+}
+.discover-frame {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-4xs) var(--padding-sm) var(--padding-10xs)
+    var(--padding-4xs);
+  position: relative;
+}
+.businesswoman-frame,
+.discover-frame,
+.promote-inclusion {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.promote-inclusion {
+  flex: 1;
+  align-items: center;
+  padding: 0 var(--padding-sm) 0 0;
+}
+.businesswoman-frame {
+  width: 253px;
+  align-items: flex-start;
+  gap: var(--gap-2xl);
+}
+.vector-icon-media {
+  height: 30.2px;
+  width: 227.3px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.mentor-frame {
+  width: 1113px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.group-frame-parent,
+.mentor-frame,
+.mentor-frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.mentor-frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-sen);
+}
+.group-frame-parent {
+  position: absolute;
+  top: 476px;
+  left: 49px;
+  width: 1193px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 60px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+.mentorship-frame-child {
+  align-self: stretch;
+  height: 1253px;
+  position: relative;
+  background-color: var(--color-crimson);
+  display: none;
+  z-index: 0;
+}
+.line-frame-child {
+  height: 2px;
+  width: 297px;
+  position: relative;
+  object-fit: contain;
+  z-index: 2;
+}
+.line-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.education {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 1;
+}
+.what-have-we-done {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 37px;
+}
+.focused-on-building {
+  align-self: stretch;
+  height: 78px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.what-have-we-done-parent {
+  width: 252px;
+  align-items: flex-end;
+  gap: var(--gap-2xs);
+}
+.group-frame1,
+.mentorship-text,
+.what-have-we-done-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.mentorship-text {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 26px;
+}
+.group-frame1 {
+  width: 412px;
+  align-items: flex-start;
+  padding: var(--padding-17xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.group-icon {
+  width: 39px;
+  height: 50px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 19px;
+  object-fit: cover;
+  z-index: 1;
+}
+.finance {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 1;
+}
+.savings-and-loans-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-32xl) 0 0;
+  position: relative;
+}
+.finance-text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-7xs);
+}
+.through-access-to {
+  align-self: stretch;
+  height: 60px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.about-us-group,
+.financing-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.about-us-group {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-6xs);
+}
+.financing-frame {
+  width: 234px;
+  align-items: flex-start;
+  padding: var(--padding-smi) 0 0;
+  box-sizing: border-box;
+}
+.finance-group-icon {
+  height: 50px;
+  width: 46px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.investment-rectangle-icon {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 1;
+}
+.investment-rectangle-wrapper {
+  width: 251px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.education-focus,
+.line-separator {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.education-focus {
+  width: 365px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.line-separator {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.mentorship {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 1;
+}
+.mentorship-frame1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 77px;
+}
+.the-association-presently {
+  width: 270px;
+  height: 31px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-inter);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.annual-report-frame,
+.focused-on-text,
+.focused-on-text-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.annual-report-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 305px;
+}
+.focused-on-text,
+.focused-on-text-wrapper {
+  flex-direction: row;
+}
+.focused-on-text {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: var(--gap-13xl);
+}
+.focused-on-text-wrapper {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.donate-frame-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-support {
+  height: 326px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 162px 0 0;
+  box-sizing: border-box;
+}
+.discover-frame-icon,
+.impact-frame-child {
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.impact-frame-child {
+  align-self: stretch;
+  height: 360px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.discover-frame-icon {
+  width: 251px;
+  height: 230px;
+}
+.impact-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  min-width: 168px;
+}
+.rectangle-two-child {
+  align-self: stretch;
+  height: 176px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-two,
+.two-rectangles {
+  display: flex;
+  justify-content: flex-start;
+}
+.rectangle-two {
+  height: 285px;
+  width: 191px;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 191px;
+}
+.two-rectangles {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-mid);
+  min-width: 322px;
+  max-width: 100%;
+}
+.what-have-we {
+  margin: 0;
+  height: 27px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-child {
+  height: 30.2px;
+  width: 227.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: -15px;
+  right: 2.7px;
+  object-fit: cover;
+  z-index: 2;
+}
+.bwlf-impact-frame,
+.what-have-we-done-with-your-he-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.what-have-we-done-with-your-he-parent {
+  flex: 1;
+  position: relative;
+}
+.bwlf-impact-frame {
+  width: 385px;
+  padding: 0 var(--padding-6xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.mentorship-frame-icon {
+  width: 227px;
+  height: 44px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.bwlf-is-working {
+  align-self: stretch;
+  height: 240px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 1;
+}
+.mdibook-education-outline1,
+.mdibusiness-woman1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.donate-now-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-maroon);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.donate-now2 {
+  position: absolute;
+  top: 9px;
+  left: 17px;
+  font-weight: 800;
+  display: inline-block;
+  width: 75px;
+  height: 19px;
+  z-index: 1;
+}
+.donate-now-frame-parent {
+  height: 31px;
+  flex: 1;
+  position: relative;
+  white-space: nowrap;
+}
+.donate-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 24px var(--padding-mid) 0;
+  z-index: 1;
+}
+.frame-item {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-forestgreen);
+  cursor: pointer;
+  z-index: 2;
+}
+.about-us1 {
+  height: 19px;
+  flex: 1;
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+  z-index: 4;
+}
+.contact-rectangle-icon {
+  width: 15px;
+  height: 8px;
+  position: relative;
+  object-fit: contain;
+  z-index: 3;
+}
+.our-impact1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  margin-left: -4px;
+}
+.rectangle-parent {
+  width: 109px;
+  padding: var(--padding-4xs) var(--padding-sm) var(--padding-10xs)
+    var(--padding-4xs);
+  box-sizing: border-box;
+  position: relative;
+  margin-left: -7px;
+}
+.about-us-frame,
+.rectangle-donate,
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-frame {
+  flex: 1;
+}
+.rectangle-donate {
+  width: 263px;
+  padding: 0 var(--padding-sm);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-sen);
+}
+.empower-orgs {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 9px;
+}
+.about-us-text,
+.bwlf-frame,
+.empower-orgs,
+.impact-vector {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.about-us-text {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.bwlf-frame,
+.impact-vector {
+  max-width: 100%;
+}
+.impact-vector {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-102xl);
+}
+.bwlf-frame {
+  width: 399px;
+  align-items: flex-start;
+  padding: 130px 0 0;
+  box-sizing: border-box;
+}
+.support-frame {
+  width: 1151px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-mid);
+  text-align: right;
+  font-size: var(--font-size-29xl);
+}
+.frame-parent,
+.support-frame,
+.the-association-annual-monthly {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.the-association-annual-monthly {
+  width: 1244px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.vector-connector-icon {
+  width: 50px;
+  height: 51px;
+  position: absolute;
+  margin: 0 !important;
+  top: 46px;
+  left: 359px;
+  object-fit: cover;
+  z-index: 1;
+}
+.streamlinemoney-cash-bag-doll1 {
+  width: 14px;
+  height: 14px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 3;
+}
+.mentorship-frame-item {
+  align-self: stretch;
+  height: 118px;
+  position: relative;
+  background-color: var(--color-maroon);
+  z-index: 1;
+}
+.home-page,
+.mentorship-frame {
+  width: 100%;
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--font-sen);
+}
+.mentorship-frame {
+  position: absolute;
+  top: 796px;
+  left: 0;
+  background-color: var(--color-crimson);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-17xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-219xl);
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.home-page {
+  height: 2049px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  letter-spacing: normal;
+  font-size: var(--font-size-29xl);
+}
+@media screen and (max-width: 1050px) {
+  .promote-social-inclusion-empow {
+    display: none;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .promote-social-inclusion,
+  .what-have-we {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .mentor-frame {
+    flex-wrap: wrap;
+  }
+  .focused-on-text {
+    gap: var(--gap-13xl);
+  }
+  .mentorship-frame {
+    gap: var(--gap-219xl);
+  }
+  .home-page {
+    height: auto;
+    min-height: 2049;
+  }
+}
+@media screen and (max-width: 450px) {
+  .promote-social-inclusion {
+    font-size: var(--font-size-10xl);
+  }
+  .education,
+  .finance {
+    font-size: var(--font-size-lgi);
+  }
+  .education-focus {
+    flex-wrap: wrap;
+  }
+  .mentorship {
+    font-size: var(--font-size-lgi);
+  }
+  .mentorship-frame1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .rectangle-two-child {
+    align-self: stretch;
+    width: auto;
+  }
+  .rectangle-two {
+    flex: 1;
+  }
+  .two-rectangles {
+    flex-wrap: wrap;
+  }
+  .what-have-we {
+    font-size: var(--font-size-10xl);
+  }
+  .impact-vector {
+    gap: var(--gap-102xl);
+  }
+  .mentorship-frame {
+    gap: var(--gap-219xl);
+  }
+}
